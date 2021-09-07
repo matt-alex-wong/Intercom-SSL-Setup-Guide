@@ -6,7 +6,7 @@
 
 #### Origin
 1. Input custom.intercom.help into origin domain
-2. Select HTTP only
+2. Select HTTP only or HTTPS only
 3. Enter a name for your distribution
 
 

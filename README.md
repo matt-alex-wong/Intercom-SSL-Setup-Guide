@@ -31,7 +31,7 @@
 
 ![settings](https://user-images.githubusercontent.com/80290537/128640972-ce8cd1dc-06c6-4139-9cb0-7bb9727754fe.png)
 
-### Create a hosted zone and A record
+### Create a hosted zone and A record (If using AWS as your domain provider)
 
 #### Hosted Zone
 1. Navigate to Route53 within your AWS console and create a new hosted zone
@@ -49,7 +49,7 @@
 
 ![Screen Shot 2021-08-08 at 12 55 06 PM](https://user-images.githubusercontent.com/80290537/128641194-23add9ae-eae2-4113-bfcc-15810afacb6c.png)
 
-### Create a CNAME record
+### Create a CNAME record (If using another service as your domain provider)
 
 1. Copy your distribution domain name
 2. Navigate to your domain provider and create a new CNAME record
